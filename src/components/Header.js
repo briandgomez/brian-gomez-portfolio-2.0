@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Tabs from './Tabs';
 import About from './Pages/About';
-import Contact from './Pages/Contact';
+import ContactForm from './Pages/Contact';
 import Portfolio from './Pages/Portfolio';
 import Resume from './Pages/Resume';
 
@@ -14,7 +14,7 @@ function Header() {
             case 'About':
                 return <About />;
             case 'Contact':
-                return <Contact />;
+                return <ContactForm />;
             case 'Portfolio':
                 return <Portfolio />;
             case 'Resume':

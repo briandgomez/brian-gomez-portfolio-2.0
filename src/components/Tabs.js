@@ -2,16 +2,16 @@
 import React from 'react';
 
 function Tabs(props) {
-    const tabs = ['About', 'Contact', 'Portfolio', 'Resume'];
+    const tabs = ['About Me', 'Contact', 'Portfolio', 'Resume'];
     return (
         <ul className="nav navbar">
             {tabs.map(currentTab => (
-                <li className="navbar-dark" key={currentTab} >
+                <li key={currentTab} >
                     <a
                         href={'#' + currentTab.toLowerCase()}
                         onClick={() => props.handlePageChange(currentTab)}
                         className={
-                            props.currentPage === currentTab ? 'nav-link active' : 'nav-link'
+                            props.currentPage === currentTab ? `nav-link active bg-secondary` : 'nav-link bg-danger'
                         }
                     >
                         {currentTab}
