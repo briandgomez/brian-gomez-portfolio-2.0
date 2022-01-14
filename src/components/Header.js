@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Tabs from './Tabs';
+import Nav from './Nav';
 import About from './Pages/About';
 import ContactForm from './Pages/Contact';
 import Portfolio from './Pages/Portfolio';
@@ -27,7 +27,7 @@ function Header() {
     return (
         <div>
             <div>
-                <Tabs currentPage={currentPage} handlePageChange={handlePageChange} />
+                <Nav currentPage={currentPage} handlePageChange={handlePageChange} />
                 <div>{renderPage(currentPage)}</div>
             </div>
         </div>
