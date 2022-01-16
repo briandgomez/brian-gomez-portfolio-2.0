@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import Nav from './Nav';
-import About from './Pages/About';
-import ContactForm from './Pages/Contact';
-import Portfolio from './Pages/Portfolio';
-import Resume from './Pages/Resume';
+import About from './About';
+import ContactForm from './Contact';
+import Portfolio from './Portfolio';
+import Resume from './Resume';
 
 function Header() {
     //Sets 'currentPage' to an initial value of 'About'

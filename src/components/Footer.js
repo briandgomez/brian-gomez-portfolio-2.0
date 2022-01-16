@@ -2,13 +2,7 @@ import React from "react";
 
 function Footer() {
     return (
-        <footer className="footer" style={{
-            position: 'fixed',
-            left: 0,
-            bottom: 0,
-            width: '100%',
-            textAlign: 'center'
-        }}>
+        <footer id="footer">
             <ul className="nav navbar">
                 <li>
                     <a href="https://github.com/briandgomez"><img src="https://img.icons8.com/color/48/000000/github--v1.png" /></a>
