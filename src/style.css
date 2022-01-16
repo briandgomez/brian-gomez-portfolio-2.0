@@ -1,0 +1,171 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #848FA5;
+}
+
+/*About*/
+#about {
+    display: flex;
+    justify-content: center;
+    padding: 35px;
+}
+
+#graphics {
+    display: flex;
+    margin: 0px 70px;
+}
+
+#software {
+    border: 5px solid black;
+    border-radius: 300px
+}
+
+#bio {
+    text-align: center;
+    margin: 0px 50px;
+    border: 5px solid;
+    padding: 105px 30px;
+    border-radius: 30px; 
+}
+
+/*Contact*/
+#contact {
+    display: flex;
+    justify-content: center;
+    padding: 35px;
+}
+
+/*Footer*/
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+footer {
+    background-color: #E5DCC5;
+}
+
+/*Nav*/
+#nav-bar {
+    background-color: #E5DCC5;
+}
+
+#nav-bar a {
+    color:  #c14953;
+    font-size: medium;
+    font-weight:bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*Portfolio*/
+#portfolio {
+    display: flex;
+    justify-content: center;
+    padding: 35px;
+}
+
+/*Resume*/
+#skills {
+    text-align: center;
+    list-style-type:lower-alpha
+}
+
+#skills h1 {
+    padding: 7px;
+}
+
+.container{ 
+    display: flex;
+}
+
+.skills-container{
+  width: 50%;
+  margin: 20px auto;
+}
+
+h4{
+  margin-bottom: 5px;
+}
+
+.container {
+  width: 100%;
+  background-color: #ddd;
+
+}
+
+.html {
+  width: 90%;
+  background-color: #4CAF50;
+}
+
+.css {
+  width: 80%;
+  background-color: #2196F3;
+}
+
+.js {
+  width: 80%;
+  background-color: #f44336;
+}
+
+.jq {
+  width: 75%;
+  background-color: #B388FF;
+}
+
+.react {
+    width: 50%;
+    background-color: #B388FF;
+}
+
+.bootstrap {
+    width: 85%;
+    background-color: #B388FF;
+}
+
+#back-end {
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+.api {
+    width: 65%;
+    background-color: #23c1c7;
+}
+
+.node {
+    width: 70%;
+    background-color: #8d1d3f;
+}
+  
+.express {
+    width: 70%;
+    background-color: #328354;
+}
+  
+.mysql {
+    width: 70%;
+    background-color: #a19f16;
+}
+  
+.graphql {
+      width: 40%;
+      background-color: #a19f16;
+}
+  
+.sequelize {
+      width: 75%;
+      background-color: #a19f16;
+}
+  
