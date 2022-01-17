@@ -16,6 +16,7 @@ body {
 #graphics {
     display: flex;
     margin: 0px 70px;
+    align-items: center;
 }
 
 #software {
@@ -25,6 +26,7 @@ body {
 
 #bio {
     text-align: center;
+    font-size: x-large;
     margin: 0px 50px;
     border: 5px solid;
     padding: 150px 30px;
@@ -36,6 +38,10 @@ body {
     display: flex;
     justify-content: center;
     padding: 35px;
+}
+
+label {
+    font-size: x-large;
 }
 
 /*Footer*/
@@ -63,11 +69,20 @@ footer {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
+#nav-bar li {
+    background: white;
+    border-radius: 30px;
+}
+  
 /*Portfolio*/
 #portfolio {
     display: flex;
     justify-content: center;
     padding: 35px;
+}
+
+#description {
+    font-size: x-large;
 }
 
 /*Resume*/

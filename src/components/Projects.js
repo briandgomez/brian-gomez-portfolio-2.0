@@ -74,13 +74,13 @@ const ImageList = () => {
                             />
                         </div>
                         <div className="effect-text">
-                            <h2>{item.name}</h2>
-                            <p>{item.descripiton}</p>
+                            <h2 style={{color: 'pink'}}>{item.name}</h2>
+                            <p id="description">{item.descripiton}</p>
                             <div className="effect-btn">
                                 <a className="btn" href={item.github}>Repo</a>
                                 <br />
                                 <br />
-                                <a className="btn" href={item.link}>Deployed Link</a>
+                                <a className="btn" href={item.link}>Deployed App</a>
                             </div>
                         </div>
                     </div>

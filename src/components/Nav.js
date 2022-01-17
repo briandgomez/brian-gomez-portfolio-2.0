@@ -2,19 +2,10 @@
 import React from 'react';
 
 function NavBar(props) {
-    const tabs = ['About Me', 'Contact', 'Portfolio', 'Resume'];
-
-    function MouseOver(event) {
-        event.target.onmouseover= 'collapse';
-    }
-
-    function MouseOut(event) {
-        event.target.onmouseout = "collapse.show";
-    }
-    
+    const tabs = ['About Me', 'Contact', 'Portfolio', 'Resume'];    
     return (
         <div>
-            <ul id="nav-bar" className="nav navbar" onMouseOver={MouseOver} onMouseOut={MouseOut}>
+            <ul id="nav-bar" className="nav navbar">
                 {tabs.map(currentTab => (
                     <li key={currentTab} >
                         <a
