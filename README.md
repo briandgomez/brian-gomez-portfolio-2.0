@@ -20,3 +20,4 @@ This project was created using the following:
 * Javascript ES6
 
 ## Deployed App
+ https://briandgomez.github.io/brian-gomez-portfolio-2.0/
