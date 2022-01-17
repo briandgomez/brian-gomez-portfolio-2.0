@@ -47,7 +47,7 @@ function ContactForm() {
         <section>
             <h1 data-testid="h1tag" id="contact">Contact Me</h1>
             <div className="row justify-content-center">
-                <form className="col-4 text-center rounded border-dark p-5" action="#!" onSubmit={handleSubmit}>
+                <form id ="form" className="col-4 text-center rounded border-dark p-5" action="#!" onSubmit={handleSubmit}>
                     <div>
                         {/*name input*/}
                         <label htmlFor="name">Name:</label>
