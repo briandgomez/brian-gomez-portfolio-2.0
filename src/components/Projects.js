@@ -55,6 +55,14 @@ const ImageList = () => {
             github: 'https://github.com/briandgomez/C12-Employee-Tracker/blob/main/README.md',
             descripiton: 'Keeps track of important employee and company information',
             link: 'https://watch.screencastify.com/v/XR4mod1Qu42Zus6N20qV'
+        },
+        {
+            id: 7,
+            src: require('../images/my-valentine.png'),
+            name: 'My Valentine App',
+            github: 'https://github.com/jagydas/my-valentine/blob/main/README.md',
+            descripiton: "E-commerce application that sells Valentine's Day related items",
+            link: 'https://my-valentine-app.herokuapp.com/'
         }
     ]);
 
