@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/brian-gomez-portfolio-2.0/static/css/main.8ace8bbb.css",
-    "main.js": "/brian-gomez-portfolio-2.0/static/js/main.d6d8ea97.js",
+    "main.js": "/brian-gomez-portfolio-2.0/static/js/main.8759c31b.js",
     "static/js/787.8646c46b.chunk.js": "/brian-gomez-portfolio-2.0/static/js/787.8646c46b.chunk.js",
+    "static/media/my-valentine.png": "/brian-gomez-portfolio-2.0/static/media/my-valentine.44d4974e3dd8d4c875ad.png",
     "static/media/employee-tracker.png": "/brian-gomez-portfolio-2.0/static/media/employee-tracker.d5605a0efdafc4c6000a.png",
     "static/media/social-api.png": "/brian-gomez-portfolio-2.0/static/media/social-api.25d1499d7463dd6b6775.png",
     "static/media/Brian Gomez Resume.pdf": "/brian-gomez-portfolio-2.0/static/media/Brian Gomez Resume.72af898943002c5a245c.pdf",
@@ -13,11 +14,11 @@
     "static/media/engineer.jpg": "/brian-gomez-portfolio-2.0/static/media/engineer.860df7b57ae9f7fea4e2.jpg",
     "index.html": "/brian-gomez-portfolio-2.0/index.html",
     "main.8ace8bbb.css.map": "/brian-gomez-portfolio-2.0/static/css/main.8ace8bbb.css.map",
-    "main.d6d8ea97.js.map": "/brian-gomez-portfolio-2.0/static/js/main.d6d8ea97.js.map",
+    "main.8759c31b.js.map": "/brian-gomez-portfolio-2.0/static/js/main.8759c31b.js.map",
     "787.8646c46b.chunk.js.map": "/brian-gomez-portfolio-2.0/static/js/787.8646c46b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8ace8bbb.css",
-    "static/js/main.d6d8ea97.js"
+    "static/js/main.8759c31b.js"
   ]
 }
