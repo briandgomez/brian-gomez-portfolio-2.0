@@ -7,7 +7,7 @@ function Resume() {
             <div className="container-skill">
                 <h1>Skills</h1>
                 <p>
-                    <a href={PDF} download={'Brian Gomez Resume'}>Download Resume</a>
+                    <a id="resume-link" href={PDF} download={'Brian Gomez Resume'}>Download Resume Here</a>
                 </p>
                 <h4>HTML</h4>
                 <div className="container">

@@ -178,6 +178,13 @@ h4{
       background-color: #a19f16;
 }
 
+#resume-link {
+    color: #8d1d3f;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: 900;
+}
+
 /*Effects*/
 .effect {
     position: relative;

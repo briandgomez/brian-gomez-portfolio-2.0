@@ -11,6 +11,7 @@ function About() {
                     src={require('./engineer.jpg')}
                     width='400'
                     height='400'
+                    alt="Description about myself"
                 />
                 <p id="bio">
                     I am a recent Rutgers University graduate with a Bachelors in Mechanical Engineering and a certificate in Energy.
