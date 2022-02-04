@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/brian-gomez-portfolio-2.0/static/css/main.d13d479c.css",
-    "main.js": "/brian-gomez-portfolio-2.0/static/js/main.b81bc905.js",
+    "main.css": "/brian-gomez-portfolio-2.0/static/css/main.0b5f2675.css",
+    "main.js": "/brian-gomez-portfolio-2.0/static/js/main.c128fca0.js",
     "static/js/787.8646c46b.chunk.js": "/brian-gomez-portfolio-2.0/static/js/787.8646c46b.chunk.js",
     "static/media/recipe-generator.jpg": "/brian-gomez-portfolio-2.0/static/media/recipe-generator.7ec04c866bce5e482172.jpg",
     "static/media/my-valentine.png": "/brian-gomez-portfolio-2.0/static/media/my-valentine.44d4974e3dd8d4c875ad.png",
@@ -21,12 +21,12 @@
     "static/media/engineer.jpg": "/brian-gomez-portfolio-2.0/static/media/engineer.860df7b57ae9f7fea4e2.jpg",
     "static/media/password-generator.PNG": "/brian-gomez-portfolio-2.0/static/media/password-generator.5b2b267ae8744ad77d2c.PNG",
     "index.html": "/brian-gomez-portfolio-2.0/index.html",
-    "main.d13d479c.css.map": "/brian-gomez-portfolio-2.0/static/css/main.d13d479c.css.map",
-    "main.b81bc905.js.map": "/brian-gomez-portfolio-2.0/static/js/main.b81bc905.js.map",
+    "main.0b5f2675.css.map": "/brian-gomez-portfolio-2.0/static/css/main.0b5f2675.css.map",
+    "main.c128fca0.js.map": "/brian-gomez-portfolio-2.0/static/js/main.c128fca0.js.map",
     "787.8646c46b.chunk.js.map": "/brian-gomez-portfolio-2.0/static/js/787.8646c46b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d13d479c.css",
-    "static/js/main.b81bc905.js"
+    "static/css/main.0b5f2675.css",
+    "static/js/main.c128fca0.js"
   ]
 }
