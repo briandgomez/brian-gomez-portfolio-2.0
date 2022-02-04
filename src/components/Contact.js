@@ -46,8 +46,15 @@ function ContactForm() {
     return (
         <section>
             <h1 data-testid="h1tag" id="contact">Contact Me</h1>
+            <div style={{ display: 'flex', justifyContent: 'center', fontSize: 'x-large' }}>
+                <p>
+                    Email: briandgomez98@gmail.com
+                    <br />
+                    Phone: Number: 9087648798
+                </p>
+            </div>
             <div className="row justify-content-center">
-                <form id ="form" className="col-4 text-center rounded border-dark p-5" action="#!" onSubmit={handleSubmit}>
+                <form id="form" className="col-4 text-center rounded border-dark p-5" action="#!" onSubmit={handleSubmit}>
                     <div>
                         {/*name input*/}
                         <label htmlFor="name">Name:</label>
