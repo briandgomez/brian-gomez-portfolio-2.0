@@ -50,7 +50,7 @@ function ContactForm() {
                 <p>
                     Email: briandgomez98@gmail.com
                     <br />
-                    Phone: Number: 9087648798
+                    Phone Number: 9087648798
                 </p>
             </div>
             <div className="row justify-content-center">
