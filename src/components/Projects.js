@@ -34,44 +34,43 @@ const ImageList = () => {
         {
             id: 4,
             src: require('../images/code-quiz.PNG'),
-            name: 'Code Quiz',
-            github: 'https://github.com/briandgomez/C4-Code-Quiz',
+            name: 'Quiz Me',
+            github: 'https://github.com/briandgomez/Quiz-Me',
             descripiton: 'Quiz for web developers to hone their basic coding skills',
-            link: 'https://briandgomez.github.io/C4-Code-Quiz/'
-
+            link: 'https://briandgomez.github.io/Quiz-Me/'
         },
         {
             id: 5,
             src: require('../images/password-generator.PNG'),
             name: 'Password Generator',
-            github: 'https://github.com/briandgomez/C3-Password-Generator',
+            github: 'https://github.com/briandgomez/Password-Generator',
             descripiton: 'Generates random password based on user input',
-            link: 'https://briandgomez.github.io/C3-Password-Generator/'
+            link: 'https://briandgomez.github.io/Password-Generator/'
 
         },
         {
             id: 6,
             src: require('../images/weather-dashboard.PNG'),
             name: 'Weather Dashboard',
-            github: 'https://github.com/briandgomez/C6-Weather-Dashboard',
+            github: 'https://github.com/briandgomez/Weather-Dashboard',
             descripiton: ' Displays current and 5 day forecast for any state in the U.S.',
-            link: 'https://briandgomez.github.io/C6-Weather-Dashboard/'
+            link: 'https://briandgomez.github.io/Weather-Dashboard/'
 
         },
         {
             id: 7,
             src: require('../images/scheduler.png'),
             name: 'Work Day Scheduler',
-            github: 'https://github.com/briandgomez/C5-Work-Day-Scheduler',
+            github: 'https://github.com/briandgomez/Work-Day-Scheduler',
             descripiton: 'Keeps track of important tasks and how close the deadline is for that particular task',
-            link: 'https://briandgomez.github.io/C5-Work-Day-Scheduler/'
+            link: 'https://briandgomez.github.io/Work-Day-Scheduler/'
 
         },
         {
             id: 8,
             src: require('../images/readme-generator.png'),
             name: 'README Generator',
-            github: 'https://github.com/briandgomez/C7-README-Generator',
+            github: 'https://github.com/briandgomez/README-Generator',
             descripiton: 'Creates a README file based on user input',
             link: 'https://watch.screencastify.com/v/lrXifzrfmRMheaR8W9fc'
 
@@ -80,7 +79,7 @@ const ImageList = () => {
             id: 9,
             src: require('../images/team-generator.png'),
             name: 'Team Generator',
-            github: 'https://github.com/briandgomez/C10-Team-Profile-Generator',
+            github: 'https://github.com/briandgomez/Team-Profile-Generator',
             descripiton: 'Creates a profile for each team member and displays their important information',
             link: 'https://watch.screencastify.com/v/ffMxLKeVl6u4Tmxpvgpw'
 
@@ -89,7 +88,7 @@ const ImageList = () => {
             id: 10,
             src: require('../images/notetaker.png'),
             name: 'Notetaker',
-            github: 'https://github.com/briandgomez/C11-Note-Taker',
+            github: 'https://github.com/briandgomez/Note-Taker',
             descripiton: 'Allows users to create or delete "tasks" ',
             link: 'https://briangomez-notetaker-app.herokuapp.com/'
 
@@ -98,7 +97,7 @@ const ImageList = () => {
             id: 11,
             src: require('../images/employee-tracker.png'),
             name: 'Employee Tracker',
-            github: 'https://github.com/briandgomez/C12-Employee-Tracker/blob/main/README.md',
+            github: 'https://github.com/briandgomez/Employee-Tracker',
             descripiton: 'Keeps track of important employee and company information',
             link: 'https://watch.screencastify.com/v/XR4mod1Qu42Zus6N20qV'
         },
@@ -106,7 +105,7 @@ const ImageList = () => {
             id: 12,
             src: require('../images/e-commerce.png'),
             name: 'E-Commerce',
-            github: 'https://github.com/briandgomez/C13-E-Commerce/blob/main/README.md',
+            github: 'https://github.com/briandgomez/E-Commerce',
             descripiton: 'Demonstrates how the back end of a e-commerce website works',
             link: "https://watch.screencastify.com/v/YZYkv9FWklMek0hSzOPc"
 
@@ -132,7 +131,7 @@ const ImageList = () => {
         {
             id: 15,
             src: require('../images/pwa.png'),
-            name: 'Progessive Web App',
+            name: 'Track My Money',
             github: "https://github.com/briandgomez/pwa-budget-tracker",
             descripiton: 'Application that is capable of tracking transactions with or without an internet connection',
             link: 'https://bg-budget-tracker.herokuapp.com/',
