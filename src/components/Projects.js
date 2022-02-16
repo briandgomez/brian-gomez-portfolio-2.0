@@ -5,7 +5,7 @@ const ImageList = () => {
     const [projects] = useState([
         {
             id: 1,
-            src: require('../images/recipe-generator.jpg'),
+            src: require('../images/recipe-generator.png'),
             name: 'Recipe Generator',
             github: 'https://github.com/mital2021/Recipe-Generator',
             descripiton: ' Displays and suggests recipes based on cuisine provided by the user',
@@ -33,7 +33,7 @@ const ImageList = () => {
     const [photos] = useState([
         {
             id: 4,
-            src: require('../images/code-quiz.PNG'),
+            src: require('../images/code-quiz.png'),
             name: 'Quiz Me',
             github: 'https://github.com/briandgomez/Quiz-Me',
             descripiton: 'Quiz for web developers to hone their basic coding skills',
@@ -41,7 +41,7 @@ const ImageList = () => {
         },
         {
             id: 5,
-            src: require('../images/password-generator.PNG'),
+            src: require('../images/password-generator.png'),
             name: 'Password Generator',
             github: 'https://github.com/briandgomez/Password-Generator',
             descripiton: 'Generates random password based on user input',
