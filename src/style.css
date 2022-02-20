@@ -69,11 +69,6 @@ footer {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
-#nav-bar li {
-    background: white;
-    border-radius: 30px;
-}
-  
 /*Portfolio*/
 #portfolio {
     display: flex;
