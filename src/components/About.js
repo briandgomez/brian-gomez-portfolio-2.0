@@ -16,16 +16,15 @@ function About() {
                     <div id="graphics">
                         <img
                             id="software"
-                            src={require('./engineer.jpg')}
+                            src={require('../images/profile.jpg')}
                             width='400'
                             height='400'
                             alt="Description about myself"
                         />
                         <p id="bio">
-                            I am a recent Rutgers University graduate with a Bachelors in Mechanical Engineering and a certificate in Energy.
-                            I am currently in the Rutgers Coding Bootcamp where I am learning technical skills and how to create web applications using the latest technologies.
-                            Proficient in the following: HTML, CSS, Javascript, Bootstrap, Github, and OOP. More than willing to learn new technologies and skills while on the job.
-                            Feel free to contact me with any questions.
+                            Hi my name is Brian Gomez. I am a recent coding bootcamp and Rutgers University graduate.
+                            I enjoy using Javascript, React, GraphQL and other technologies to create creative applications.
+                            My goal is to continue to learn new skills in both back-end and front-end to improve the quality of my applications.
                         </p>
                     </div>
                 </motion.div>
