@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/brian-gomez-portfolio-2.0/static/css/main.d69035b1.css",
-    "main.js": "/brian-gomez-portfolio-2.0/static/js/main.f3bfb9ae.js",
+    "main.css": "/brian-gomez-portfolio-2.0/static/css/main.089805ea.css",
+    "main.js": "/brian-gomez-portfolio-2.0/static/js/main.dcbeb24f.js",
     "static/js/787.8646c46b.chunk.js": "/brian-gomez-portfolio-2.0/static/js/787.8646c46b.chunk.js",
     "static/media/recipe-generator.png": "/brian-gomez-portfolio-2.0/static/media/recipe-generator.65df7a0456649e9e6b7c.png",
     "static/media/employee-tracker.png": "/brian-gomez-portfolio-2.0/static/media/employee-tracker.3055b1aae4b02d7e90ec.png",
@@ -18,15 +18,14 @@
     "static/media/scheduler.png": "/brian-gomez-portfolio-2.0/static/media/scheduler.f995ba881ee8aead6e02.png",
     "static/media/password-generator.png": "/brian-gomez-portfolio-2.0/static/media/password-generator.ccc66c5c76d85d8c3c4a.png",
     "static/media/team-generator.png": "/brian-gomez-portfolio-2.0/static/media/team-generator.44d7115ad735d567d4c4.png",
-    "static/media/engineer.jpg": "/brian-gomez-portfolio-2.0/static/media/engineer.860df7b57ae9f7fea4e2.jpg",
     "static/media/notetaker.png": "/brian-gomez-portfolio-2.0/static/media/notetaker.c38e8b274fd22bb45c0b.png",
     "index.html": "/brian-gomez-portfolio-2.0/index.html",
-    "main.d69035b1.css.map": "/brian-gomez-portfolio-2.0/static/css/main.d69035b1.css.map",
-    "main.f3bfb9ae.js.map": "/brian-gomez-portfolio-2.0/static/js/main.f3bfb9ae.js.map",
+    "main.089805ea.css.map": "/brian-gomez-portfolio-2.0/static/css/main.089805ea.css.map",
+    "main.dcbeb24f.js.map": "/brian-gomez-portfolio-2.0/static/js/main.dcbeb24f.js.map",
     "787.8646c46b.chunk.js.map": "/brian-gomez-portfolio-2.0/static/js/787.8646c46b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d69035b1.css",
-    "static/js/main.f3bfb9ae.js"
+    "static/css/main.089805ea.css",
+    "static/js/main.dcbeb24f.js"
   ]
 }
