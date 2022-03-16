@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/brian-gomez-portfolio-2.0/static/css/main.089805ea.css",
+    "main.css": "/brian-gomez-portfolio-2.0/static/css/main.64f8ea68.css",
     "main.js": "/brian-gomez-portfolio-2.0/static/js/main.dcbeb24f.js",
     "static/js/787.8646c46b.chunk.js": "/brian-gomez-portfolio-2.0/static/js/787.8646c46b.chunk.js",
     "static/media/recipe-generator.png": "/brian-gomez-portfolio-2.0/static/media/recipe-generator.65df7a0456649e9e6b7c.png",
@@ -20,12 +20,12 @@
     "static/media/team-generator.png": "/brian-gomez-portfolio-2.0/static/media/team-generator.44d7115ad735d567d4c4.png",
     "static/media/notetaker.png": "/brian-gomez-portfolio-2.0/static/media/notetaker.c38e8b274fd22bb45c0b.png",
     "index.html": "/brian-gomez-portfolio-2.0/index.html",
-    "main.089805ea.css.map": "/brian-gomez-portfolio-2.0/static/css/main.089805ea.css.map",
+    "main.64f8ea68.css.map": "/brian-gomez-portfolio-2.0/static/css/main.64f8ea68.css.map",
     "main.dcbeb24f.js.map": "/brian-gomez-portfolio-2.0/static/js/main.dcbeb24f.js.map",
     "787.8646c46b.chunk.js.map": "/brian-gomez-portfolio-2.0/static/js/787.8646c46b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.089805ea.css",
+    "static/css/main.64f8ea68.css",
     "static/js/main.dcbeb24f.js"
   ]
 }
