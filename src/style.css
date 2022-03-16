@@ -26,6 +26,7 @@ body {
 }
 
 #bio {
+    display: inline-block;
     text-align: center;
     font-size: x-large;
     margin: 0px 50px;
@@ -88,7 +89,7 @@ footer {
 /*Resume*/
 #skills {
     text-align: center;
-    list-style-type:lower-alpha
+    list-style-type:lower-alpha;
 }
 
 #skills h1 {
@@ -246,10 +247,11 @@ h4{
 .effect .effect-btn .btn {
     display: inline-block;
     height: 35px;
-    padding: 7px 15px;
+    padding: 5px 15px;
     color: #333333;
     background: #ffffff;
     text-decoration: none;
+    border-radius: 12px;
 }
 
 /*Responsive Design*/
@@ -261,6 +263,10 @@ h4{
     #bio {
         padding: 0;
     }
+
+    #skills {
+        padding-bottom: 30px;
+    }
 }
 
 @media screen and (max-width: 980px) {
@@ -270,6 +276,10 @@ h4{
 
     #bio {
         padding: 0;
+    }
+
+    #skills {
+        padding-bottom: 30px;
     }
 }
 
@@ -289,13 +299,20 @@ h4{
     } 
     
     #bio {
-        padding: 0;
+        padding-bottom: 35px;
+    }
+
+    #footer {
+        position: static;
     }
 
     #form {
         padding: 0 !important;
     }
 
+    #skills {
+        padding-bottom: 30px;
+    }
 }
 
 @media screen and (max-width: 576px) {
@@ -317,10 +334,18 @@ h4{
 
     #bio {
         margin: 0;
-        padding: 0;
+        padding: 20px 0px;
+    }
+
+    #footer {
+        position: static;
     }
 
     #form {
         padding: 0 !important;
+    }
+
+    #skills {
+        padding-bottom: 30px;
     }
 }
