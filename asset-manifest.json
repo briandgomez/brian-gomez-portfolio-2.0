@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/brian-gomez-portfolio-2.0/static/css/main.64f8ea68.css",
-    "main.js": "/brian-gomez-portfolio-2.0/static/js/main.dcbeb24f.js",
+    "main.js": "/brian-gomez-portfolio-2.0/static/js/main.9ced6f6f.js",
     "static/js/787.8646c46b.chunk.js": "/brian-gomez-portfolio-2.0/static/js/787.8646c46b.chunk.js",
     "static/media/recipe-generator.png": "/brian-gomez-portfolio-2.0/static/media/recipe-generator.65df7a0456649e9e6b7c.png",
+    "static/media/y.e.r.png": "/brian-gomez-portfolio-2.0/static/media/y.e.r.bdb5aef0fb413279c321.png",
     "static/media/employee-tracker.png": "/brian-gomez-portfolio-2.0/static/media/employee-tracker.3055b1aae4b02d7e90ec.png",
     "static/media/my-valentine.png": "/brian-gomez-portfolio-2.0/static/media/my-valentine.cbc956039ecea5f716f6.png",
     "static/media/Brian Gomez Resume.pdf": "/brian-gomez-portfolio-2.0/static/media/Brian Gomez Resume.72af898943002c5a245c.pdf",
@@ -21,11 +22,11 @@
     "static/media/notetaker.png": "/brian-gomez-portfolio-2.0/static/media/notetaker.c38e8b274fd22bb45c0b.png",
     "index.html": "/brian-gomez-portfolio-2.0/index.html",
     "main.64f8ea68.css.map": "/brian-gomez-portfolio-2.0/static/css/main.64f8ea68.css.map",
-    "main.dcbeb24f.js.map": "/brian-gomez-portfolio-2.0/static/js/main.dcbeb24f.js.map",
+    "main.9ced6f6f.js.map": "/brian-gomez-portfolio-2.0/static/js/main.9ced6f6f.js.map",
     "787.8646c46b.chunk.js.map": "/brian-gomez-portfolio-2.0/static/js/787.8646c46b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.64f8ea68.css",
-    "static/js/main.dcbeb24f.js"
+    "static/js/main.9ced6f6f.js"
   ]
 }
