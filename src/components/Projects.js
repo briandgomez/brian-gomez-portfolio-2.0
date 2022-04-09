@@ -136,6 +136,14 @@ const ImageList = () => {
             descripiton: 'Application that is capable of tracking transactions with or without an internet connection',
             link: 'https://bg-budget-tracker.herokuapp.com/',
 
+        },
+        {
+            id: 16,
+            src: require('../images/y.e.r.png'),
+            name: 'Y.E.R',
+            github: "https://github.com/briandgomez/YER",
+            descripiton: 'Displays movie and tv-show information based on user search',
+            link: 'https://briandgomez.github.io/YER/',
         }
     ]);
 
