@@ -2,34 +2,6 @@
 import React, { useState } from "react";
 
 const ImageList = () => {
-    const [projects] = useState([
-        {
-            id: 1,
-            src: require('../images/recipe-generator.png'),
-            name: 'Recipe Generator',
-            github: 'https://github.com/mital2021/Recipe-Generator',
-            descripiton: ' Displays and suggests recipes based on cuisine provided by the user',
-            link: 'https://mital2021.github.io/Recipe-Generator/'
-
-        },
-        {
-            id: 2,
-            src: require('../images/review.png'),
-            name: 'Entertainment Review',
-            github: 'https://github.com/NeXFP/EntertainmentReviewListProject',
-            descripiton: 'Creates and displays post once user is logged in',
-            link: 'https://entertainmentreview.herokuapp.com/'
-
-        },
-        {
-            id: 3,
-            src: require('../images/my-valentine.png'),
-            name: 'My Valentine',
-            github: 'https://github.com/jagydas/my-valentine/blob/main/README.md',
-            descripiton: "E-commerce application that sells Valentine's Day related items",
-            link: 'https://my-valentine-app.herokuapp.com/'
-        }
-    ])
     const [photos] = useState([
         {
             id: 4,
@@ -85,15 +57,6 @@ const ImageList = () => {
 
         },
         {
-            id: 10,
-            src: require('../images/notetaker.png'),
-            name: 'Notetaker',
-            github: 'https://github.com/briandgomez/Note-Taker',
-            descripiton: 'Allows users to create or delete "tasks" ',
-            link: 'https://briangomez-notetaker-app.herokuapp.com/'
-
-        },
-        {
             id: 11,
             src: require('../images/employee-tracker.png'),
             name: 'Employee Tracker',
@@ -129,15 +92,6 @@ const ImageList = () => {
 
         },
         {
-            id: 15,
-            src: require('../images/pwa.png'),
-            name: 'Track My Money',
-            github: "https://github.com/briandgomez/pwa-budget-tracker",
-            descripiton: 'Application that is capable of tracking transactions with or without an internet connection',
-            link: 'https://bg-budget-tracker.herokuapp.com/',
-
-        },
-        {
             id: 16,
             src: require('../images/y.e.r.png'),
             name: 'Y.E.R',
@@ -149,32 +103,6 @@ const ImageList = () => {
 
     return (
         <div className="row">
-            {projects.map(item => (
-                <div className="effect col-6 d-flex justify-content-center">
-                    <div>
-                        <p className="d-flex justify-content-center" />
-                        <div className="effect-img">
-                            <img
-                                className="mb-5 rounded border border-danger"
-                                key={item.id}
-                                src={item.src}
-                                width={'300px'}
-                                height={'300px'}
-                            />
-                        </div>
-                        <div className="effect-text">
-                            <h2 style={{ color: 'pink' }}>{item.name}</h2>
-                            <p id="description">{item.descripiton}</p>
-                            <div className="effect-btn">
-                                <a className="btn" href={item.github}>Repo</a>
-                                <br />
-                                <br />
-                                <a className="btn" href={item.link}>Deployed App</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            ))}
             {photos.map(item => (
                 <div className="effect col-6 d-flex justify-content-center">
                     <div>
